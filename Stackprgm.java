@@ -1,4 +1,4 @@
-class Stack1
+class Stack
 {
     private int maxsize;
     private int[] stackarray;
@@ -57,7 +57,7 @@ class Stack1
         System.out.println(stackarray[top]);
     }
 }
-class Stackprgm
+class Stack_Operation
 {
     public static void main(String args[])
     {
